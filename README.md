@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=natin-kumar" alt="natin-kumar" /></a> </p>
 
-- 🔭 I’m currently working on **task manager**
+- 🔭 I’m currently working on **AI agents**
 
-- 🌱 I’m currently learning **Devops,Next.js**
+- 🌱 I’m currently learning **Ai/ML**
 
 - 💬 Ask me about **react,nodejs,cpp,java**
 
